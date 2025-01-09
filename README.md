@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Daniel 👋
+
+**Software Developer** in Los Angeles. **Lead Developer** at a fintech startup.
+
+Skills:
+<br>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,swift,java,python,js,nodejs,react,git,docker,vim,figma&perline=6&theme=dark" alt="My skills: c, cpp, swift, java, python, js, nodejs, react, git, docker, vim, figma" />
+  </a>
 
 <!--
 **DF0ster/DF0ster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
